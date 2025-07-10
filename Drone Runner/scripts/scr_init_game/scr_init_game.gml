@@ -1,0 +1,9 @@
+global.coins = 0;
+global.kills = 0;
+global.kills_to_shop = 10;
+global.shop_open = false;
+global.max_motors = 4;
+global.player_motors = [];
+global.player_upgrades = {};
+global.reroll_cost = 5;
+global.piercing_level = 1;

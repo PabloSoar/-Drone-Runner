@@ -12,6 +12,6 @@ hp_max = 10;
 attack_speed = 30;
 
 shoot_cooldown = 0;
-boost_cooldown = 30 * room_speed;
+boost_cooldown = 1000;
 can_boost = true;
 boost = 0;

@@ -5,8 +5,8 @@ if (can_boost == true && boost == 0) {
     
     speed = 20;
     
-    alarm[0] = 5 * room_speed; 
+    alarm[0] = 100;
     
 
-    alarm[1] = boost_cooldown * room_speed;	
+    alarm[1] = boost_cooldown;
 }
